@@ -1,4 +1,4 @@
-﻿OverallRating,Comment,FeedbackCategory,Subcategory
+OverallRating,Comment,FeedbackCategory,Subcategory
 Neutral,He then calls and is on the phone for over 30 minutes. Please email me,Uncategorized,Customer Service Interaction
 Satisfied, I emailed last year and sat on hold for a time to talk to a Rep about this,Uncategorized,Customer Service Interaction
 Disappointed,"Everytime I chat with someone, they end the chat before I can even respond. It is very frustrating. It happened just now with Yvonne and has happened each time I have chatted with someone on several occasions. They tell me their solution and then just end the chat. They don't even ask if there is anything else I need, or even provide a normal response time for me to respond each time they send a response or question to me. Can you please relay this along as customer service is getting a bad rep for this.",Uncategorized,Customer Service Interaction
@@ -17,8 +17,8 @@ Neutral,Plus all four kindergarten teachers had a bill for the whole school year
 Very Satisfied,"I was a little surprised to find that I could not look up the amount in my child's E-wallet without the help of Ronda, I needed to make absolute sure that my daughter wouldn't be showing up on book fair day, unable to purchase anything with her class.      Other than the ability to check the amount in your child's E-wallet easily",Uncategorized,Account Balance/Payment
 Satisfied,I've struggled for years with the cc payment method on this site. Mostly around saving a cc/adding a new cc.,Uncategorized,Account Balance/Payment
 Satisfied,I had to put in my card info a couple of times before it would accept it I had to enter things in a certain order.,Uncategorized,Account Balance/Payment
-Neutral, you have to pay tax.,Uncategorized,Tax
-Satisfied,I wish you would not charge tax (just have it already added in the book price). Also I miss getting a receipt with my order.,Uncategorized,Tax
+Neutral, you have to pay tax.,Uncategorized,Account Balance/Payment
+Satisfied,I wish you would not charge tax (just have it already added in the book price). Also I miss getting a receipt with my order.,Uncategorized,Account Balance/Payment
 Satisfied,My students really like the paper flyers but we have not received any this school year.  Will they be sent in the future?,Kits,Kits
 Neutral, It would be nice to have received physical copies of flyers.,Kits,Kits
 Neutral,Looking for a connection to order flyers  sent to my school.  In previous years they were automatically sent to my school.  This year they  were not. I would like flyers for Early Childhood and Firefly.,Kits,Kits
@@ -44,3 +44,13 @@ Neutral,the number are not the same as in the flyer.,Kits,Kits
 Satisfied,"I was looking for a way to request paper, book order catalogs to hand out to my students.",Kits,Kits
 Disappointed,I have now filled out the request for paper flyers twice. Please follow through and send them soon.,Kits,Kits
 Very Disappointed,"The flyer from the teacher, does NOT match on-line.",Kits,Kits
+Neutral,I still appreciate the tactile sense of browsing the printed Scholastic book order flyer.,Kits,Kits
+Disappointed,"I simply wanted to change the number of fliers I'm receiving since I have a larger class this year.  I needed to go the the ""arrow"". When I asked what arrow, she said scroll down to the bottom of the screen, for teachers, and select catalogs. There I find I need to order specific catalogs for a one-time order. ",Kits,Kits
+Satisfied,I have asked for a 4th grade flyer but have not received one- most of my parents need the paper flyer,Kits,Kits
+Neutral,I need to have flyers sent to me as I never got any and would like to make a class order. I can't find how to have flyers sent ,Kits,Kits
+Neutral,"When I tried the chat feature for help, the session timed out and I never got help.",Uncategorized,Customer Service Interaction
+Neutral,"I did not appreciate that a call back was never made from Scholastic.  I had to log in, call, send a message and finally, took me submitting a chat before I had my questions answered.",Uncategorized,Customer Service Interaction
+Very Satisfied,Trying to make a payment,Uncategorized,Account Balance/Payment
+Disappointed, I have a credit that I can't use.,Uncategorized,Account Balance/Payment
+Very Disappointed,My shipping and payment page does not display the payment method or information necessary to make a payment.,Uncategorized,Account Balance/Payment
+Very Satisfied,A parent wrote a check to Scholastic while the rest of the parents sent cash.  I paid for everything on my debit card.  This means I need to contact the parent who wrote a check to you and ask them to rewrite it.,Uncategorized,Account Balance/Payment
